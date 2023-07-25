@@ -1,0 +1,95 @@
+ 
+[2023-07-25 11:41:42] local.ERROR:  \n\n The Login Form data is   ==> email:  sa38299793@gmail.com password is : test1234  
+[2023-07-25 11:41:42] local.INFO:    validated ********  ok for email : sa38299793@gmail.com password : test1234  
+[2023-07-25 11:41:43] local.INFO: databse data is =====>> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics\/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701}  
+[2023-07-25 11:41:43] local.INFO: hashpass data is =====>> true  
+[2023-07-25 11:41:43] local.INFO: im here sirrrr    
+[2023-07-25 11:41:43] local.INFO: hi im in createToken, and this is expire time :5  
+[2023-07-25 11:41:43] local.INFO: token is =====>> "195|CUsTR0dS6dqWZYIdlZCvhXIyeG7jEn3xMtMRjkzX"  
+[2023-07-25 11:41:43] local.INFO: According to your credentials, this is the data im sending in response =====>> {"user":{"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics\/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701},"token":"195|CUsTR0dS6dqWZYIdlZCvhXIyeG7jEn3xMtMRjkzX"}  
+[2023-07-25 11:41:43] local.INFO: HTTP Response updated ***@@ :{"user":{"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701},"token":"195|CUsTR0dS6dqWZYIdlZCvhXIyeG7jEn3xMtMRjkzX"}  
+
+
+[2023-07-25 11:47:13] local.ERROR:  The session user data is   ==> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","token":"195|CUsTR0dS6dqWZYIdlZCvhXIyeG7jEn3xMtMRjkzX"}  
+[2023-07-25 11:47:13] local.ERROR:  The token is   ==> 195|CUsTR0dS6dqWZYIdlZCvhXIyeG7jEn3xMtMRjkzX  
+[2023-07-25 11:47:13] local.ERROR:  The id is   ==> 195  
+[2023-07-25 11:47:13] local.ERROR:  The tokenExpiresAt is   ==> 2023-07-25 11:46:43  
+[2023-07-25 11:47:13] local.ERROR:  Token has been Expired   
+[2023-07-25 11:47:22] local.ERROR:  The session user data is   ==> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","token":"195|CUsTR0dS6dqWZYIdlZCvhXIyeG7jEn3xMtMRjkzX"}  
+[2023-07-25 11:47:22] local.ERROR:  The token is   ==> 195|CUsTR0dS6dqWZYIdlZCvhXIyeG7jEn3xMtMRjkzX  
+[2023-07-25 11:47:22] local.ERROR:  The id is   ==> 195  
+[2023-07-25 11:47:22] local.ERROR:  The tokenExpiresAt is   ==> 2023-07-25 11:46:43  
+[2023-07-25 11:47:22] local.ERROR:  Token has been Expired   
+[2023-07-25 11:48:29] local.ERROR:  The session user data is   ==> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","token":"195|CUsTR0dS6dqWZYIdlZCvhXIyeG7jEn3xMtMRjkzX"}  
+[2023-07-25 11:48:29] local.ERROR:  The token is   ==> 195|CUsTR0dS6dqWZYIdlZCvhXIyeG7jEn3xMtMRjkzX  
+[2023-07-25 11:48:29] local.ERROR:  The id is   ==> 195  
+[2023-07-25 11:48:29] local.ERROR:  The tokenExpiresAt is   ==> 2023-07-25 11:46:43  
+[2023-07-25 11:48:29] local.ERROR:  Token has been Expired   
+[2023-07-25 11:49:14] local.ERROR:  \n\n The Login Form data is   ==> email:  sa38299793@gmail.com password is : test1234  
+[2023-07-25 11:49:14] local.INFO:    validated ********  ok for email : sa38299793@gmail.com password : test1234  
+[2023-07-25 11:49:14] local.INFO: databse data is =====>> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics\/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701}  
+[2023-07-25 11:49:14] local.INFO: hashpass data is =====>> true  
+[2023-07-25 11:49:14] local.INFO: im here sirrrr    
+[2023-07-25 11:49:14] local.INFO: hi im in createToken, and this is expire time :5  
+[2023-07-25 11:49:14] local.INFO: token is =====>> "196|QRn0T6Qah2xrRfsnG4Zd0LxzKz6WppnON80ukEDY"  
+[2023-07-25 11:49:14] local.INFO: According to your credentials, this is the data im sending in response =====>> {"user":{"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics\/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701},"token":"196|QRn0T6Qah2xrRfsnG4Zd0LxzKz6WppnON80ukEDY"}  
+[2023-07-25 11:49:14] local.INFO: HTTP Response updated ***@@ :{"user":{"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701},"token":"196|QRn0T6Qah2xrRfsnG4Zd0LxzKz6WppnON80ukEDY"}  
+[2023-07-25 11:49:33] local.ERROR:  The session user data is   ==> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","token":"196|QRn0T6Qah2xrRfsnG4Zd0LxzKz6WppnON80ukEDY"}  
+[2023-07-25 11:49:33] local.ERROR:  The token is   ==> 196|QRn0T6Qah2xrRfsnG4Zd0LxzKz6WppnON80ukEDY  
+[2023-07-25 11:49:33] local.ERROR:  The id is   ==> 196  
+[2023-07-25 11:49:33] local.ERROR:  The tokenExpiresAt is   ==> 2023-07-25 11:54:14  
+[2023-07-25 11:49:33] local.ERROR:  im in if < now condition   
+[2023-07-25 11:53:47] local.ERROR:  The session user data is   ==> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","token":"196|QRn0T6Qah2xrRfsnG4Zd0LxzKz6WppnON80ukEDY"}  
+[2023-07-25 11:53:47] local.ERROR:  The token is   ==> 196|QRn0T6Qah2xrRfsnG4Zd0LxzKz6WppnON80ukEDY  
+[2023-07-25 11:53:47] local.ERROR:  The id is   ==> 196  
+[2023-07-25 11:53:47] local.ERROR:  The tokenExpiresAt is   ==> 2023-07-25 11:54:14  
+[2023-07-25 11:53:47] local.ERROR:  im in if < now condition   
+[2023-07-25 11:54:53] local.ERROR:  The session user data is   ==> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","token":"196|QRn0T6Qah2xrRfsnG4Zd0LxzKz6WppnON80ukEDY"}  
+[2023-07-25 11:54:53] local.ERROR:  The token is   ==> 196|QRn0T6Qah2xrRfsnG4Zd0LxzKz6WppnON80ukEDY  
+[2023-07-25 11:54:53] local.ERROR:  The id is   ==> 196  
+[2023-07-25 11:54:53] local.ERROR:  The tokenExpiresAt is   ==> 2023-07-25 11:54:14  
+[2023-07-25 11:54:53] local.ERROR:  Token has been Expired   
+[2023-07-25 11:54:54] local.ERROR:  \n\n The Login Form data is   ==> email:   password is :   
+[2023-07-25 11:54:55] local.INFO: HTTP responseData ^^^^^^^^^^^^^^^^^^ :null  
+[2023-07-25 11:56:38] local.ERROR:  \n\n The Login Form data is   ==> email:  sa38299793@gmail.com password is : test1234  
+[2023-07-25 11:56:38] local.INFO:    validated ********  ok for email : sa38299793@gmail.com password : test1234  
+[2023-07-25 11:56:38] local.INFO: databse data is =====>> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics\/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701}  
+[2023-07-25 11:56:38] local.INFO: hashpass data is =====>> true  
+[2023-07-25 11:56:38] local.INFO: im here sirrrr    
+[2023-07-25 11:56:38] local.INFO: hi im in createToken, and this is expire time :5  
+[2023-07-25 11:56:38] local.INFO: token is =====>> "197|zlrwVe8cF9QEF6SRTXt8f6arwvuc5RnB89r74Vah"  
+[2023-07-25 11:56:38] local.INFO: According to your credentials, this is the data im sending in response =====>> {"user":{"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics\/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701},"token":"197|zlrwVe8cF9QEF6SRTXt8f6arwvuc5RnB89r74Vah"}  
+[2023-07-25 11:56:38] local.INFO: HTTP Response updated ***@@ :{"user":{"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701},"token":"197|zlrwVe8cF9QEF6SRTXt8f6arwvuc5RnB89r74Vah"}  
+[2023-07-25 11:56:47] local.ERROR:  \n\n The Login Form data is   ==> email:  sa38299793@gmail.com password is : test1234  
+[2023-07-25 11:56:47] local.INFO:    validated ********  ok for email : sa38299793@gmail.com password : test1234  
+[2023-07-25 11:56:47] local.INFO: databse data is =====>> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics\/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701}  
+[2023-07-25 11:56:48] local.INFO: hashpass data is =====>> true  
+[2023-07-25 11:56:48] local.INFO: im here sirrrr    
+[2023-07-25 11:56:48] local.INFO: hi im in createToken, and this is expire time :5  
+[2023-07-25 11:56:48] local.INFO: token is =====>> "198|ozH90IRIImO3vsh1ra7i4oCtydYODBvYtpsYYwGe"  
+[2023-07-25 11:56:48] local.INFO: According to your credentials, this is the data im sending in response =====>> {"user":{"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics\/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701},"token":"198|ozH90IRIImO3vsh1ra7i4oCtydYODBvYtpsYYwGe"}  
+[2023-07-25 11:56:48] local.INFO: HTTP Response updated ***@@ :{"user":{"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701},"token":"198|ozH90IRIImO3vsh1ra7i4oCtydYODBvYtpsYYwGe"}  
+[2023-07-25 11:57:51] local.ERROR:  The session user data is   ==> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","token":"198|ozH90IRIImO3vsh1ra7i4oCtydYODBvYtpsYYwGe"}  
+[2023-07-25 11:57:51] local.ERROR:  The token is   ==> 198|ozH90IRIImO3vsh1ra7i4oCtydYODBvYtpsYYwGe  
+[2023-07-25 11:57:51] local.ERROR:  The id is   ==> 198  
+[2023-07-25 11:57:51] local.ERROR:  The tokenExpiresAt is   ==> 2023-07-25 11:51:48  
+[2023-07-25 11:57:51] local.ERROR:  Token has been Expired   
+[2023-07-25 12:01:01] local.ERROR:  The session user data is   ==> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","token":"198|ozH90IRIImO3vsh1ra7i4oCtydYODBvYtpsYYwGe"}  
+[2023-07-25 12:01:01] local.ERROR:  The token is   ==> 198|ozH90IRIImO3vsh1ra7i4oCtydYODBvYtpsYYwGe  
+[2023-07-25 12:01:01] local.ERROR:  The id is   ==> 198  
+[2023-07-25 12:01:01] local.ERROR:  The tokenExpiresAt is   ==> 2023-07-25 11:51:48  
+[2023-07-25 12:01:01] local.ERROR:  Token has been Expired   
+[2023-07-25 12:01:09] local.ERROR:  \n\n The Login Form data is   ==> email:  sa38299793@gmail.com password is : test1234  
+[2023-07-25 12:01:09] local.INFO:    validated ********  ok for email : sa38299793@gmail.com password : test1234  
+[2023-07-25 12:01:09] local.INFO: databse data is =====>> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics\/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701}  
+[2023-07-25 12:01:09] local.INFO: hashpass data is =====>> true  
+[2023-07-25 12:01:09] local.INFO: im here sirrrr    
+[2023-07-25 12:01:09] local.INFO: hi im in createToken, and this is expire time :5  
+[2023-07-25 12:01:09] local.INFO: token is =====>> "199|3bLr9AhDZO1GLvH8GFDyt1FGQcs3Zz4O9Ag72OP6"  
+[2023-07-25 12:01:09] local.INFO: According to your credentials, this is the data im sending in response =====>> {"user":{"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics\/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701},"token":"199|3bLr9AhDZO1GLvH8GFDyt1FGQcs3Zz4O9Ag72OP6"}  
+[2023-07-25 12:01:09] local.INFO: HTTP Response updated ***@@ :{"user":{"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","email_verified_at":"2023-07-21T10:25:06.000000Z","role":1,"category_id":0,"profile_photo_path":"profile_pics/kAa7a26QG82yxf6wXLZFo9mNA5i5M17OHQoTpZdg.png","ph_no":"03235383001","status":"pending","created_at":"2023-07-21T10:24:26.000000Z","updated_at":"2023-07-25T07:47:25.000000Z","active_status":0,"avatar":"avatar.png","dark_mode":0,"messenger_color":null,"otp":"349899","latitude":33.7544249,"longitude":72.7451701},"token":"199|3bLr9AhDZO1GLvH8GFDyt1FGQcs3Zz4O9Ag72OP6"}  
+[2023-07-25 12:01:29] local.ERROR:  The session user data is   ==> {"id":96,"name":"Shahbaz muhavia","email":"sa38299793@gmail.com","token":"199|3bLr9AhDZO1GLvH8GFDyt1FGQcs3Zz4O9Ag72OP6"}  
+[2023-07-25 12:01:29] local.ERROR:  The token is   ==> 199|3bLr9AhDZO1GLvH8GFDyt1FGQcs3Zz4O9Ag72OP6  
+[2023-07-25 12:01:29] local.ERROR:  The id is   ==> 199  
+[2023-07-25 12:01:29] local.ERROR:  The tokenExpiresAt is   ==> 2023-07-25 12:06:09  
+[2023-07-25 12:01:29] local.ERROR:  im in if < now condition   

@@ -1,0 +1,67 @@
+.side-nav
+    background: rgb(107, 70, 255)
+    position: fixed
+    top:0
+    left: 0
+    bottom: 0
+    width: 300px
+    padding: 40px 0
+    color: white
+
+    .logo
+        display: flex
+        justify-content: center
+        align-items: center
+        flex-direction: column
+        font-weight: 600
+        font-size: 20px
+        border-bottom: 1px dashed grey
+        padding-bottom: 15px
+        margin-bottom: 40px
+
+    ul
+        display: flex
+        flex-direction: column
+        list-style: none
+        gap: 5px
+        padding: 0 10px
+
+        li
+            a
+                color: #fff
+                text-decoration: none
+                padding: 10px 25px
+                background-color: #1f06df 
+                border-radius: 3px
+                font-weight: 200  
+                display: flex
+                transition: all 0.1s ease 
+
+                &:hover
+                    background: white
+                    color: red
+                    font-weight: 500
+                    transform: skewX(-15deg)
+
+    .logout
+        button
+            background: red
+            border: 1px solid grey
+            position: absolute
+            left: 15px
+            bottom: 15px
+            color: white
+            display: flex
+            justify-content: center
+            align-items: center
+            padding: 5px 25px
+            border-radius: 200px
+            font-size: 12px
+            transition: all 0.4s ease
+            font-weight: 300
+            font-style: italic
+            cursor: pointer
+            &:hover
+                background: red
+                
+            

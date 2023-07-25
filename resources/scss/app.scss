@@ -1,0 +1,40 @@
+@import '_variable';
+@import '_global.sass';
+@import "soft-ui-dashboard/bootstrap/functions";
+@import "soft-ui-dashboard/public.sass";
+
+//technician ki cheezen han admin ke layout wali
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import 'admin/partials/nav.sass';
+@import 'admin/_variables.scss';
+@import 'admin/_global.sass';
+
+// Custom Variables
+@import "soft-ui-dashboard/custom/variables";
+
+// Theme Variables
+@import "soft-ui-dashboard/variables";
+
+// Bootstrap Core
+@import "soft-ui-dashboard/bootstrap/bootstrap";
+
+// Theme Core
+@import "soft-ui-dashboard/theme";
+
+// Custom Variables
+@import "soft-ui-dashboard/custom/styles";
+@import 'pages/components/productBox.sass';
+@import 'pages/components/home/header.sass';
+@import 'pages/home.sass';
+@import 'pages/auth.sass';
+@import 'pages/product.sass';
+@import 'pages/public.sass';
+@import 'pages/success.sass';
+@import 'pages/cart.sass';
+@import 'pages/checkout.sass';
+@import 'pages/accounts.sass';
+@import 'pages/mainp.sass';
+
+@import 'pages/components/popUp.sass';
+@import 'partials/_nav.sass';
